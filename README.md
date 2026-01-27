@@ -120,31 +120,7 @@ Detailed ablation studies analyze:
 
 ---
 
-## 📁 Repository Structure (Suggested)
-
-```text
-├── data/
-│   ├── products.csv
-│   ├── reviews.csv
-│   └── processed/
-├── preprocessing/
-│   ├── crawl_data.py
-│   ├── clean_data.py
-│   └── build_graph.py
-├── models/
-│   ├── content_based.py
-│   ├── user_based.py
-│   ├── lightgcn.py
-│   ├── lightgcl.py
-│   └── mmgcn.py
-├── experiments/
-│   ├── train.py
-│   ├── evaluate.py
-│   └── ablation.py
-├── results/
-├── README.md
-└── requirements.txt
-```
+## 📁 Repository Structure (Updated soon)
 
 ---
 
