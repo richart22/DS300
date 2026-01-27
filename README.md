@@ -171,9 +171,3 @@ If you use this code or dataset, please cite:
 ```
 
 ---
-
-If you want, I can also:
-
-* **Align this README with a specific conference style** (SIGIR / RecSys / CIKM)
-* **Refactor it for open-source dataset release**
-* **Write a DATASET.md or MODEL_CARD.md** to strengthen reproducibility and reviewer trust
