@@ -1,6 +1,3 @@
-Below is a **clean, conference-style README** suitable for a **research GitHub repository**, written directly from the content of your report .
-You can copy–paste this into `README.md` and adjust repo links if needed.
-
 ---
 
 # Fashion Recommendation via Graph Neural Networks and Multimodal Web-Crawled Data
