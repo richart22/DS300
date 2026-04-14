@@ -40,7 +40,7 @@ All models are trained using **Bayesian Personalized Ranking (BPR) loss** with n
 
 ---
 
-## 🗂 Dataset Description
+## Dataset Description
 
 The dataset is automatically crawled from **Uniqlo Vietnam** using Selenium and BeautifulSoup and consists of two main components :
 
