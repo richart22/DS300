@@ -8,7 +8,7 @@ The project focuses on **Top-K fashion recommendation** under sparse interaction
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Fashion recommendation poses unique challenges due to its reliance on **visual appearance**, **textual descriptions**, and **user preference patterns**. To address these challenges, this project:
 
@@ -22,7 +22,7 @@ Experimental results demonstrate that **multimodal graph-based models**, particu
 
 ---
 
-## 🧠 Models Implemented
+## Models Implemented
 
 ### Baseline Models
 
@@ -65,7 +65,7 @@ To handle missing user identifiers, a **cohort-based user construction** strateg
 
 ---
 
-## 🔍 Tasks & Evaluation
+## Tasks & Evaluation
 
 ### Task
 
@@ -83,7 +83,7 @@ Training interactions are excluded from candidate sets during evaluation to ensu
 
 ---
 
-## 🔗 Multimodal Feature Extraction
+## Multimodal Feature Extraction
 
 ### Text Embeddings
 
@@ -105,7 +105,7 @@ Results show that **CLIP-based image embeddings** and **Sentence-BERT–style mu
 
 ---
 
-## 🧪 Experimental Highlights
+## Experimental Highlights
 
 * **MMGCN and LightGCL** achieve the best overall performance across all metrics
 * Textual features play a more critical role than visual features for basic fashion items
@@ -120,11 +120,11 @@ Detailed ablation studies analyze:
 
 ---
 
-## 📁 Repository Structure (Updated soon)
+## Repository Structure (Updated soon)
 
 ---
 
-## 🚀 Future Work
+## Future Work
 
 * Expand dataset to include **Vietnamese-specific fashion items** (e.g., *áo dài*)
 * Replace cohort-based users with real interaction logs
